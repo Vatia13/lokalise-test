@@ -2,5 +2,8 @@
     "incentive": "incentive",
     "signup_button": "signup_button",
     "welcome_header": "welcome_header",
-    "user_page_title": "მომხმარებლის გვერდი"
+    "user_page_title": "მომხმარებლის გვერდი",
+    "new_key": "ახალი გასაღები",
+    "local_key": "ლოკალური გასაღები",
+    "check_build": "შექმნის პროცესის შემოწმება"
 }
